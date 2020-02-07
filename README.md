@@ -1,6 +1,10 @@
 # DS_picmetric2
 Data Science repository for picmetric2. PicMetric uses a YOLO v3 Convolutional Neural Network to perform object detection on uploaded images. 
 
+### This product is in development. Any file and code base is subject to change in future iterations.
+### Deployment requires integration with database. See Back-End repository for more information.
+### PicMetric is intended for educational purposes only, commercial use is highly discouraged.
+
 # Components
 ### Flask_api:
     - Flask API built with Python 3.7
