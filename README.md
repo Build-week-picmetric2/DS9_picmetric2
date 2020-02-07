@@ -13,7 +13,7 @@ Data Science repository for picmetric2. PicMetric uses a YOLO v3 Convolutional N
 
 ### Picmetric2_models	
     - Keras-YOLO3 pre-trained model built with Python 3.7 
-    - Contains model and all supporting functions to build model using omitted weights file.
+    - Contains model and all supporting functions to build model using omitted weights file (see link on yolov3 notebook)
     - Contains all supporting functions for detected object box formatting.
     - Takes in an image object or URL and returns a series of label predictions and their certainty values.
 
